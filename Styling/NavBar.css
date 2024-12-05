@@ -1,0 +1,11 @@
+.nav{
+    width: 100vw;
+    height: 4rem;
+    font-size: 24px;
+    background-color: #2a2438;
+    color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10rem;
+}
